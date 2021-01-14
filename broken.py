@@ -1,0 +1,3 @@
+LLongString_withStrangeName = 'llllllllllllllllllllllllllllllllllllllllllllllllll0000000000000000000000000000nggggggggggggggggggggggggggggggggggggggggggggggg'
+
+import wat
